@@ -33,7 +33,7 @@ Send me an email or open a ticket on github.
 ---
 **INSTALLATION:**
 * Drop the *space_check.sh* wherever you like and where it does not bother you, but you still remember ... maybe ~/.local/bin/
-* Add the script location to the autostart setting of your specific distribution, e.g. https://askubuntu.com/questions/1086/how-to-make-program-autostart-only-in-gnome or https://itsfoss.com/manage-startup-applications-ubuntu/, https://medium.com/@jsakov/linux-start-an-application-automatically-at-boot-2b6fb61524d7, or https://www.fosslinux.com/500/how-to-add-auto-startup-applications-in-ubuntu-16-04.htm
+* Add the script location to the autostart setting of your specific distribution, e.g. https://askubuntu.com/questions/1086/how-to-make-program-autostart-only-in-gnome, https://itsfoss.com/manage-startup-applications-ubuntu/, https://medium.com/@jsakov/linux-start-an-application-automatically-at-boot-2b6fb61524d7, or https://www.fosslinux.com/500/how-to-add-auto-startup-applications-in-ubuntu-16-04.htm
 * You can modify the trigger that causes the notification, currently at "< 100 MB AND > 98 %" ... see script, or drop me a message.
 * Dependency: *notify-send* ... thus:
 <pre>sudo apt install libnotify-bin</pre>
