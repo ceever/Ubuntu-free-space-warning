@@ -2,7 +2,8 @@
 
 **A simple notification showing partitions potentially running out of space**
 
-Copyright © 2020 Andrew Jackson (https://github.com/ceever ... ceever@web.de)
+---
+ Copyright © 2022 Andrew Jackson (https://github.com/ceever)
 
  This program is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
